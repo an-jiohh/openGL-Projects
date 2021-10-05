@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="rectangle.cpp">
+    <ClCompile Include="basic_gl.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
